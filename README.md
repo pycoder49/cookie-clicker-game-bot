@@ -1,6 +1,7 @@
 # cookie-clicker-game-bot
 
 Made for: Firefox browser
+
 Browser automation through Selenium
 
 A straightforward cookie-clicker game bot that plays the game for 5 minutes and prints out the cookies/second in the end before closing the browser window.
